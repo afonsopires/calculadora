@@ -48,7 +48,7 @@ function equalTo(){
 }
 
 
- When user presses "AC", function "clearScr()" is called
+ //When user presses "AC", function "clearScr()" is called
 function clearScr(){
 	document.getElementById('screen').innerHTML = '';
 	
